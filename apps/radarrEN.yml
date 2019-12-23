@@ -13,9 +13,9 @@
 
     - name: 'Set Known Facts'
       set_fact:
-        pgrole: 'radarr'
+        pgrole: 'radarren'
         intport: '7878'
-        extport: '7878'
+        extport: '7879'
         image: 'linuxserver/radarr:preview'
 
     # CORE (MANDATORY) ############################################################
